@@ -68,3 +68,5 @@ open up localhost:
 - Flask
 - Meta Llama2
 - Pinecone
+- HTML
+- CSS
